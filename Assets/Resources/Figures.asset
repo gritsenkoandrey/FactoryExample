@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d29e25b6606b2f4ca6b61d2348c5674, type: 3}
+  m_Name: Figures
+  m_EditorClassIdentifier: 
+  _listCube:
+  - obj: {fileID: 3082997808467811624, guid: f56b491d8ee29f941b971b32dcf13655, type: 3}
+    material: {fileID: 2100000, guid: ca600c62a4128464a8398d88e4dcbeda, type: 2}
+  - obj: {fileID: 3082997808467811624, guid: 247cbf23684409a468f653deca7d8814, type: 3}
+    material: {fileID: 2100000, guid: 970bd3d7f0be99a4aa1b0d7d8458eb16, type: 2}
+  _listSphere:
+  - obj: {fileID: 8557626445199357008, guid: b5a2808f4358f824584f81a411f2d864, type: 3}
+    material: {fileID: 2100000, guid: 012f4bc98554d1a43833221531ea9ef5, type: 2}
+  - obj: {fileID: 8557626445199357008, guid: 029a07bab2f82f347a162922b7474a21, type: 3}
+    material: {fileID: 2100000, guid: 65d77ac3a2702894a8209123d484d3f0, type: 2}
